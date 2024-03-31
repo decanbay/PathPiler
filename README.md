@@ -8,6 +8,10 @@ It only queues unique URLs so that you can not queue the same url.
 
 This is to store URLs in a First-In-First-Out (FIFO) manner, view the current queue capacity.
 
+Compiled on Ubuntu 22.04
+Binary file can be downloaded from here
+https://github.com/decanbay/PathPiler/releases
+
 ## Features
 
 - **URL Queue Management**: Add URLs to a queue with a simple drag-and-drop interface.
@@ -31,6 +35,9 @@ To get started with URL Collector, follow these steps:
 If you prefer to build URL Collector from source, you will need Python and PyQt installed on your system. Follow these steps:
 
 ```bash
+
+
+
 # Clone the repository
 To get an executable 
 pyinstaller --onefile --windowed --exclude-module _ssl --exclude-module pyqt5 PathPiler.py
