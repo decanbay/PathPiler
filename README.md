@@ -44,7 +44,7 @@ If you prefer to build URL Collector from source, you will need Python and PyQt 
 ```
 # Clone the repository
 To get an executable 
-pyinstaller --onefile --windowed --exclude-module _ssl --exclude-module pyqt5 PathPiler.py
+pyinstaller --onefile --windowed --exclude-module _ssl PathPiler.py
 
 OR
 
