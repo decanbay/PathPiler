@@ -1,6 +1,13 @@
 # PathPiler URL Collector
+Linux
 ![image](https://github.com/decanbay/PathPiler/assets/20815862/9bc034b2-d8ea-468a-8336-1c892f89b279)
 ![image](https://github.com/decanbay/PathPiler/assets/20815862/eb1f848b-a84d-45ab-8f10-80e17782b3b2)
+
+Windows
+![image](https://github.com/decanbay/PathPiler/assets/20815862/f4f9a8d4-c1a0-468e-93c8-e7630543e723)
+![image](https://github.com/decanbay/PathPiler/assets/20815862/d6a95500-8872-41e5-9d04-1015620ff05f)
+
+I don't like Apple so no MacOSbut feel free to compile and add here.
 
 I have created this for myself as I was getting distracted with the number of tabs and Could not limit myself.
 Just drag your URL from your browser for queue, and click back on to deque.
