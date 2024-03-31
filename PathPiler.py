@@ -1,6 +1,6 @@
-from PySide6.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QSlider
-from PySide6.QtGui import QDesktopServices, QDragEnterEvent, QDropEvent
-from PySide6.QtCore import Qt, QUrl
+from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QSlider
+from PyQt6.QtGui import QDesktopServices, QDragEnterEvent, QDropEvent
+from PyQt6.QtCore import Qt, QUrl
 import sys
 
 class UrlCollector(QWidget):
