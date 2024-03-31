@@ -10,7 +10,14 @@ This is to store URLs in a First-In-First-Out (FIFO) manner, view the current qu
 
 Compiled on Ubuntu 22.04
 Binary file can be downloaded from here
+
 https://github.com/decanbay/PathPiler/releases
+chmod +x PathPiler
+
+Double click or
+
+./PathPiler
+
 
 ## Features
 
@@ -34,10 +41,7 @@ To get started with URL Collector, follow these steps:
 
 If you prefer to build URL Collector from source, you will need Python and PyQt installed on your system. Follow these steps:
 
-```bash
-
-
-
+```
 # Clone the repository
 To get an executable 
 pyinstaller --onefile --windowed --exclude-module _ssl --exclude-module pyqt5 PathPiler.py
