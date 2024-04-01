@@ -1,4 +1,4 @@
-# PathPiler URL Collector
+# PathPiler and FreePiler URL Collector
 Linux
 ![image](https://github.com/decanbay/PathPiler/assets/20815862/9bc034b2-d8ea-468a-8336-1c892f89b279)
 ![image](https://github.com/decanbay/PathPiler/assets/20815862/eb1f848b-a84d-45ab-8f10-80e17782b3b2)
@@ -6,6 +6,10 @@ Linux
 Windows
 ![image](https://github.com/decanbay/PathPiler/assets/20815862/f4f9a8d4-c1a0-468e-93c8-e7630543e723)
 ![image](https://github.com/decanbay/PathPiler/assets/20815862/d6a95500-8872-41e5-9d04-1015620ff05f)
+
+Also checkout the more capable version here 
+https://github.com/decanbay/PathPiler/tree/FreePile
+
 
 I don't like Apple so no MacOSbut feel free to compile and add here.
 
